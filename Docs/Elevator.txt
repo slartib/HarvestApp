@@ -1,0 +1,46 @@
+Elevator
+    Receives loads of crops for storage
+    Ships out loads of products as it is sold
+    Stores crops in grain silos and outdoor bulk stacks
+    Weighs each truck prior to unload to establish gross weight
+    Weighs each truck after unloading to estabish tare weight
+    Net weight of product (crop) is gross - tare
+    Provides truck driver with weight information
+    Records truck, driver and shipper information
+    Records grower information
+    Records variety inforamation
+    Records harvester inforation
+    Records time and date load received
+    Works with multiple entities
+        Growers - need to see summary data of amount of crop received for each field, variety and quality information. Growers are often the harvesters and shippers as well
+        Shippers - need to see detail and summary information for each load taken to the elevator grouped by the grower, harvester and field
+        Harvesters - need to see information similar to the Shippers. Often the harvesters and shippers are the same entities 
+        Elevator staff - need access to all data collected
+    Need to track each load in and out
+        For each load record
+            truck
+            gross, tare and net
+            variety
+            quality
+            grower
+            shipper
+            harvester
+            field
+            date
+            time   
+            moisture
+            
+Growers
+    Have crops that are harvested and stored prior to sale
+    The storage can be in commercial elevators or self owned storage tanks or elevators
+    The commercial or private storage facilities represent endpoints for each load hauled.
+    Growers need to know how much product is hauled to each location.
+    They need to know what commercial elevators receive so they know how much crop is credited to their account
+    They need to know how much is taken to private storage facilities to know about remaining capacity and how much they have to sell in the future.
+    The crops are grown in individual fields 
+    The crops have gross type like wheat, lentils, peas, garbonzo beans, canola etc.
+    The gross crop type can be represented by mulitple varieties
+    A field typically represents a single variety of a gross crop type
+    Growers can often be their owner harvesters and shippers
+    Growers can also work with custom harvesters and/or shippers for a fee that is sometimes dependent on the amount of crop harvested or shipped
+    
