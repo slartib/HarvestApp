@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a4edec6-5a58-4a6f-b11d-15abbbba93e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/harvest-app-webui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Img099327-Edit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Img46282_web_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Img74185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Img74661.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css.orig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js.orig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/CropLoadDataTable.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/DisplayHarvestInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/FieldManagerCropLoadData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/FieldManagerMain.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/FieldManagerTruckStatus.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SetHarvestInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/TruckStates.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/TruckStatusTable.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/.idea/harvest-app-webui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/public/images/Img099327-Edit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/Components/CropLoadDataTable.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/Components/DisplayHarvestInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/Components/FieldManagerCropLoadData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/Components/FieldManagerMain.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/Components/FieldManagerTruckStatus.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/Components/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/Components/SetHarvestInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/Components/TruckStates.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/Components/TruckStatusTable.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harvest-app-webui/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AQX0c1ouTxFjmYr7uHHThahGjo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a4edec6-5a58-4a6f-b11d-15abbbba93e7" name="Changes" comment="" />
+      <created>1654942561710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654942561710</updated>
+      <workItem from="1654942563266" duration="4948000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
