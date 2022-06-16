@@ -1,11 +1,12 @@
-import React, {useState, useEffect} from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
-import {Link, useParams} from "react-router-dom";
-import Nav from "./Nav"
+
+
 import "../App.css"
+import GrowerFieldSelector from "./GrowerFieldSelector";
 
 
-export default function DisplayHarvestInfo({info, setInfo})
+export default function HarvestInfo({info, setInfo})
 {
     //const [harvestInfo, setHarvestInfo ] = useState({})
     //const [editHarvestInfo, setEditHarvestInfo] = useState(true)
@@ -14,7 +15,7 @@ export default function DisplayHarvestInfo({info, setInfo})
         //setEditHarvestInfo(false)
         return (
             <div>
-                <p>Edit Harvest Info</p>
+                <GrowerFieldSelector info={info} setInfo={setInfo}/>
             </div>
         )
     }
@@ -25,7 +26,7 @@ export default function DisplayHarvestInfo({info, setInfo})
     )
 }
 
-DisplayHarvestInfo.propTypes =
+HarvestInfo.propTypes =
     {
         info: PropTypes.object.isRequired,
         setInfo: PropTypes.func.isRequired

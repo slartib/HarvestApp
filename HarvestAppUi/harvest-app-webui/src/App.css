@@ -31,11 +31,58 @@ body {
   flex-direction: column;
 
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #66C;
   width: 100%;
   position: fixed;
   top: 0;
 }
+
+.grower-field-selector-container
+{
+  display: grid;
+  grid-template-columns: 20% 30% 30% 20%;
+  border-width: thin;
+  border-style: solid;
+  padding: 10px;
+}
+.grower-selector
+{
+  grid-column: 2;
+}
+
+.field-truck-container
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+}
+.home-buttons-container
+{
+  display: grid;
+  grid-template-columns: 40px 1fr 40px 1fr 4px;
+  gap: 10%;
+  grid-template-rows: 200px;
+  justify-items: center;
+
+}
+
+.home-button-left
+{
+  grid-column: 2;
+  font-size: xx-large;
+}
+
+.home-button-right
+{
+  grid-column: 4;
+  font-size: xx-large;
+}
+
+.field-selector
+{
+  grid-column: 3
+}
+
 
 .truck-header {
   background-color: #282c34;
@@ -46,13 +93,17 @@ body {
   flex-direction: column;
 
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #339;
   width: 100%;
   position: fixed;
   top: 0;
 }
 
-
+.header-text
+{
+  position: fixed;
+  top: 10px;
+}
 .App-link {
   color: #61dafb;
 }
