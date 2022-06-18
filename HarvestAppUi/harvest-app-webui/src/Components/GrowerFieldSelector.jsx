@@ -5,7 +5,7 @@ import Nav from "./Nav"
 import "../App.css"
 
 
-export default function GrowerFieldSelector({info, setInfo})
+export default function GrowerFieldSelector()
 {
     const url = 'http://harvestsql-env-1.eba-jyexawm8.us-west-2.elasticbeanstalk.com/growers'
     //const url = 'http://localhost:8080/growers'
@@ -14,7 +14,7 @@ export default function GrowerFieldSelector({info, setInfo})
     const handleChange = (e) => {
         const formInfo = {}
 
-        setInfo(formInfo)
+
     }
 
     useEffect ( () =>
@@ -38,8 +38,4 @@ export default function GrowerFieldSelector({info, setInfo})
         </div>    )
 }
 
-GrowerFieldSelector.propTypes =
-    {
-        info: PropTypes.object.isRequired,
-        setInfo: PropTypes.func.isRequired
-    }
+
