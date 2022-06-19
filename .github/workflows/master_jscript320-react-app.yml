@@ -11,6 +11,9 @@ on:
 defaults:
   run:
     working-directory: ./HarvestAppUi/harvest-app-webui
+env:
+  CI: false
+  
 jobs:
   build:
     runs-on: ubuntu-latest
